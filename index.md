@@ -1,4 +1,6 @@
 ---
 title: Welcome to my blog!
-subtitle: Testing
+***Testing the Markdown language!!***
+---
+
 ---
