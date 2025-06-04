@@ -1,6 +1,3 @@
 ---
-title: Welcome to my blog!
-***Testing the Markdown language!!***
----
-
----
+# Welcome to my blog!
+**Testing the Markdown language!!**
